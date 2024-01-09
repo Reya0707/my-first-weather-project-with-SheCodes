@@ -4,7 +4,7 @@ body {
 }
 
 a {
-  color: #00aaa0;
+  color: #d55b3e;
 }
 
 .weather-app {
@@ -22,7 +22,7 @@ header {
 }
 
 .search-input {
-  background-color: #f9f7fe;
+  background-color: #fcf4d9;
   border: none;
   color: rgba(39, 33, 66, 0.4);
   font-size: 16px;
@@ -90,9 +90,9 @@ main {
 }
 
 footer {
-  border-top: 1px solid #f9f7fe;
+  border-top: 1px solid #d55b3e;
   text-align: center;
   padding-top: 15px;
-
   color: rgba(39, 33, 66, 0.4);
+  font-size: 14px;
 }
